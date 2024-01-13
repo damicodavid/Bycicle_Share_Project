@@ -1,4 +1,4 @@
-# **Welcome to Bicycle-Share analysis in Python!**
+# **Welcome to Bicycle-Share analysis in Python**
 
 ### *Characteristics:*
 * Difficulty: _Beginner/Intermediate level_
