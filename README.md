@@ -19,7 +19,7 @@ The basic approach was the flexibility of its pricing plans: single-ride passes,
 1. How do annual members and casual riders use _Cyclistic_ bikes differently?
 2. What are the possible action in order to convert casual rider to annual memberships type?
 
-## Getting Started  
+## Step-by-step Analysis 
 
 We'll analyze quarter 2019 Q4 and 2020 Q1 data frame (6 months dataset) and we'll present the possible resolutions for the marketing dep.
 
