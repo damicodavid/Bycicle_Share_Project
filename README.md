@@ -216,3 +216,7 @@ After have been analyzed data we find out that casual riders are most likely usi
 1. Increasing the percentage of members is possible through a well structured loyalty program;
 2. Proposed assigning unique rider ID numbers for in-depth analysis and ensure compliance with GDPR principles in data handling;
 3. Create a campaign to target younger clients to increase total revenue.
+   
+body {
+    background-color: black; /* Change 'black' to your desired color */
+}
