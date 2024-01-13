@@ -206,7 +206,9 @@ After have been analyzed data we find out that casual riders are most likely usi
 ## 1.4 Visualization and Conclusions
 
 ![Dashboard_Cyclist](https://github.com/damicodavid/Bycicly_Share_Project/assets/156213397/e8adf448-faa8-4eae-9d7c-1d285ae4ea92)
-
+Check my viz here->[Tableau Pubblic](https://public.tableau.com/app/profile/david.d.amico/viz/Project_Google_17050844221870/Dashboard2)
+<br>
+<br>
 **INSIGHTS:**
 1. It seems casual riders use bicycle for leisure purpose and members as an alternative transports for daily activities (work,school...);
 2. 13.68 % of the total rides is made from casual customers that could be retained as members and increase total revenues;
